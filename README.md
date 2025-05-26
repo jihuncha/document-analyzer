@@ -1,6 +1,6 @@
 # Document Analyzer API
 
-AI 기반 문서 분석 및 질문-답변 서비스
+AI 기반 문서 분석 및 질문-답변 서비스 (Use Venu)
 
 ## 기능
 - PDF/TXT 파일 업로드
